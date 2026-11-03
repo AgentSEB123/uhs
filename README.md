@@ -33,9 +33,11 @@ The earlier design upgrade used [Unslop for Codex](https://github.com/ometere123
 
 ## GitHub Pages
 
-`npm run build` creates the self-contained static files in `.site/`. The deployment branch is `gh-pages`, containing only that build and `.nojekyll`. In repository **Settings → Pages**, choose **Deploy from a branch**, select **gh-pages**, and choose **/ (root)**. The expected project address is `https://agentseb123.github.io/uhs/` once GitHub confirms the deployment. Private-repository Pages availability depends on the GitHub account plan.
+Live site: https://agentseb123.github.io/uhs/
 
-Future source changes need to be rebuilt and the resulting `.site/` contents committed to `gh-pages`. Repository source lives on `main`; local screenshots and build artifacts are ignored.
+GitHub reports the active Pages source as **main / (root)**. All page assets use relative paths and the source is already static, so GitHub serves the site without a framework build. `.nojekyll` disables unnecessary Jekyll processing. Future source pushes to `main` update this site through GitHub Pages.
+
+`npm run build` also exports a minimal static copy into `.site/`. A matching `gh-pages` branch was pushed as an alternative deployment artifact; it is not the currently active Pages source. Local screenshots and generated build files are ignored.
 
 ## Validation
 
