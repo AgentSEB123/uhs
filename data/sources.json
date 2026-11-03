@@ -1,0 +1,158 @@
+{
+  "checked_on": "2026-11-03",
+  "timezone": "America/New_York",
+  "school_home": "https://www.sampson.k12.nc.us/o/uhs",
+  "news_feed": "https://thrillshare-cmsv2.services.thrillshare.com/api/v2/s/286133/articles",
+  "events_feed": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/17139/cms/events?section_ids=286134",
+  "resources": {
+    "ClassLink": "https://launchpad.classlink.com/sampson",
+    "DESTINY": "https://sampson.follettdestiny.com/common/welcome.jsp?context=saas096_3220814",
+    "Dining": "https://www.sampson.k12.nc.us/dining",
+    "Enrollment": "https://www.sampson.k12.nc.us/o/uhs/page/enrollment",
+    "NCEDCloud": "https://my.ncedcloud.org/",
+    "SchoolCash Online": "https://sampsoncountyschools.schoolcashonline.com/",
+    "Student records / transcripts": "https://www.sampson.k12.nc.us/o/uhs/page/transcript-requests",
+    "Tech help": "https://www.sampson.k12.nc.us/o/uhs/page/one-to-one-plus-ticket-desk",
+    "Campus Parent Portal": "https://820.ncsis.gov/campus/portal/parents/psu820sampson.jsp",
+    "Calendars": "https://www.sampson.k12.nc.us/o/scs/page/calendars",
+    "Policy": "https://boardpolicyonline.com/?b=sampson",
+    "Strategic Planning Survey": "https://docs.google.com/forms/d/e/1FAIpQLScMQFnVipJTl_SZvG0hyXIFcjS7oZzyeeXCIEMhHcrpthOG_g/viewform"
+  },
+  "events": [
+    {
+      "id": 64845799,
+      "title": "Underclassmen/Staff Makeup Picture Day",
+      "start_at": "2026-11-16T00:00:00.000-05:00",
+      "end_at": "2026-11-16T00:00:00.000-05:00",
+      "all_day": true
+    },
+    {
+      "id": 64845317,
+      "title": "Basketball S. Creek (H)",
+      "start_at": "2026-11-17T16:30:00.000-05:00",
+      "end_at": "2026-11-17T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845932,
+      "title": "Basketball Pender (H)",
+      "start_at": "2026-11-20T16:30:00.000-05:00",
+      "end_at": "2026-11-20T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845763,
+      "title": "Basketball @ S. Creek",
+      "start_at": "2026-11-24T16:30:00.000-05:00",
+      "end_at": "2026-11-24T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845539,
+      "title": "Basketball @ Pender",
+      "start_at": "2026-12-01T16:30:00.000-05:00",
+      "end_at": "2026-12-01T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845476,
+      "title": "Basketball Midway (H)",
+      "start_at": "2026-12-02T16:30:00.000-05:00",
+      "end_at": "2026-12-02T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845692,
+      "title": "UHS Dance Recital",
+      "start_at": "2026-12-03T00:00:00.000-05:00",
+      "end_at": "2026-12-03T00:00:00.000-05:00",
+      "all_day": true
+    },
+    {
+      "id": 64845455,
+      "title": "Yearbook Senior Ads Due",
+      "start_at": "2026-12-04T08:00:00.000-05:00",
+      "end_at": "2026-12-04T15:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845584,
+      "title": "Basketball Jones Sr (H)",
+      "start_at": "2026-12-04T16:30:00.000-05:00",
+      "end_at": "2026-12-04T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845738,
+      "title": "Basketball @ Jones Sr.",
+      "start_at": "2026-12-09T16:30:00.000-05:00",
+      "end_at": "2026-12-09T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845541,
+      "title": "Basketball @ W.Columbus",
+      "start_at": "2026-12-11T16:30:00.000-05:00",
+      "end_at": "2026-12-11T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845611,
+      "title": "EOC/CTE Final Exams",
+      "start_at": "2026-12-14T00:00:00.000-05:00",
+      "end_at": "2026-12-18T00:00:00.000-05:00",
+      "all_day": true
+    },
+    {
+      "id": 64845376,
+      "title": "Basketball @ N.Duplin",
+      "start_at": "2026-12-17T16:30:00.000-05:00",
+      "end_at": "2026-12-17T21:00:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845301,
+      "title": "NHG Classic",
+      "start_at": "2026-12-22T15:00:00.000-05:00",
+      "end_at": "2026-12-22T21:30:00.000-05:00",
+      "all_day": false
+    },
+    {
+      "id": 64845772,
+      "title": "NHG Classic",
+      "start_at": "2026-12-23T16:30:00.000-05:00",
+      "end_at": "2026-12-23T21:30:00.000-05:00",
+      "all_day": false
+    }
+  ],
+  "news": [
+    {
+      "id": 2464639,
+      "title": "Union JROTC to present colors at Panthers Game",
+      "url": "https://www.sampson.k12.nc.us/o/uhs/article/2464639",
+      "published_at": "2025-10-03T13:30:46.000-04:00"
+    },
+    {
+      "id": 2346488,
+      "title": "Sampson County Schools 2025-2026 Cell Phone Policy",
+      "url": "https://www.sampson.k12.nc.us/o/uhs/article/2346488",
+      "published_at": "2025-08-08T11:19:38.000-04:00"
+    },
+    {
+      "id": 2300398,
+      "title": "Sampson County Schools to Host District Job Fair",
+      "url": "https://www.sampson.k12.nc.us/o/uhs/article/2300398",
+      "published_at": "2026-01-29T09:57:00.000-05:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/images/union-spartan.png",
+      "source": "https://cmsv2-assets.apptegy.net/uploads/17139/logo/18483/logo_template_300.png"
+    },
+    {
+      "file": "assets/images/union-jrotc.jpg",
+      "source": "https://core-docs.s3.amazonaws.com/sampson_county_schools_ar/article/image/large_1596c65f-92a7-4e34-a9d8-c6b7582f7319.jpeg"
+    }
+  ]
+}
